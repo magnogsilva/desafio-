@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(169, 169, 255);
+}
+
+.container {
+    padding-top: 15px;
+}
+
+.opcoes {
+    padding-top: 15px;
+}
+
+.botoes {
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 1px;
+}
